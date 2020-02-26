@@ -8,3 +8,10 @@ p {
 btw, this is a CSS comment. Feel free to delete it.
 
  */
+h1 {
+  font-family: sans-serif;
+}
+
+.suggestion {
+  color: green;
+}
